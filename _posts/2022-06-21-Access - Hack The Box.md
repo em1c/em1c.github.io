@@ -128,7 +128,7 @@ Let's note the credentials
     security : 4Cc3ssC0ntr0ller
 
 ## Telnet - user shell
----
+<hr>
 
 Logging in to Microsoft Telnet Server with the obtained credentials. We are getting a low-level access as **security**.
 
@@ -139,7 +139,7 @@ Getting the user flag.
 ![Desktop View](/assets/hackthebox/access/user-flag.png)
 
 ## Runas - root shell
----
+<hr>
 
 Using the `cmdkey` command to list the stored credentials on the machine.
 
